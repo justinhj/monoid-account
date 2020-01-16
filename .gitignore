@@ -1,0 +1,7 @@
+project/
+.idea/
+target/
+.DS_Store
+.history
+project/metals.sbt
+.vscode/
